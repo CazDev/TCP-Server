@@ -1,0 +1,19 @@
+c:\users\chaz6\Desktop\VS stuff\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+c:\users\chaz6\Desktop\VS stuff\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+c:\users\chaz6\Desktop\VS stuff\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+c:\users\chaz6\Desktop\VS stuff\TCP Server\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
+c:\users\chaz6\Desktop\VS stuff\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+c:\users\chaz6\Desktop\VS stuff\TCP Server\TCP Server\obj\Debug\TCP Server.pdb
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.pdb
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
+C:\Users\chaz6\Dropbox\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+C:\Users\chaz6\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+C:\Users\chaz6\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.pdb
+C:\Users\chaz6\Dropbox\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+C:\Users\chaz6\Dropbox\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+C:\Users\chaz6\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
+E:\Users\Chaz\Dropbox\TCP Server\TCP Server\obj\Debug\TCP Server.csproj.CoreCompileInputs.cache
